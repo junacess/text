@@ -1,0 +1,28 @@
+<！DOCTYPE 
+ 
+  
+     
+      
+      初始規模= 1“ > 
+    < -以上3元標記*必須*先來的頭;！任何其他內容頭部*必須來後*這些標籤- > 
+    <標題>引導101模板</ title>
+
+    <！ -引導- > 
+    <鏈接 的href = “CSS / bootstrap.min.css”  相對= “樣式” >
+
+    <！ - HTML5的墊片和Respond.js對IE8的支持HTML5元素和媒體查詢- > 
+    < - ！警告：如果你通過文件瀏覽頁面Respond.js不起作用：// - > 
+    <！ - [如果LT IE 9]>
+      <SCRIPT SRC =“htt​​ps://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js”> </ SCRIPT>
+      <SCRIPT SRC =“htt​​ps://oss.maxcdn.com/respond/1.4.2/respond.min.js”> </ SCRIPT>
+    <！[ENDIF] - > 
+  </ HEAD> 
+  <BODY> 
+    <H1>！你好，世界</ H1>
+
+    <！ - jQuery的（必要引導的JavaScript的插件） - > 
+    <SCRIPT SRC = “https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js” > </ SCRIPT > 
+    <！ -包括所有編譯插件（下圖），或者包括個人所需文件- > 
+    <SCRIPT SRC = “JS / bootstrap.min.js” > </ SCRIPT> 
+  </ BODY> 
+</ HTML>
